@@ -5,3 +5,4 @@ pandas
 matplotlib
 requests
 joblib
+imbalanced-learn
